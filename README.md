@@ -2,7 +2,7 @@
 Code of the ICCV 2023 paper :
 <br>**March in Chat: Interactive Prompting for Remote Embodied Referring Expression**<br>
 
-[[Paper](https://github.com/YanyuanQiao/MiC)] [[GitHub](https://github.com/YanyuanQiao/MiC)]
+[[Paper](https://arxiv.org/pdf/2308.10141.pdf)] [[GitHub](https://github.com/YanyuanQiao/MiC)]
 
 ![teaser](overview.png)
 
