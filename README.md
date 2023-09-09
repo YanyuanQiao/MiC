@@ -13,7 +13,7 @@ Many Vision-and-Language Navigation (VLN) tasks have been proposed in recent yea
 
 ## TODOs
 
-- [ ] Demonstration set from Finegrained R2R dataset
+- [ ] Demonstration Set
 - [ ] ROASP Code
 - [ ] LLM Code 
 
