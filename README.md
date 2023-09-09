@@ -17,4 +17,6 @@ Many Vision-and-Language Navigation (VLN) tasks have been proposed in recent yea
 - [ ] ROASP Code
 - [ ] LLM Code 
 
-Code Coming Soon!
+## Prerequisites
+### Installation
+Please follow the installation instructions in [DUET](https://github.com/cshizhe/VLN-DUET) to setup the environment.
