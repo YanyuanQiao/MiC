@@ -10,7 +10,7 @@ import base64
 
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
-outfile = '/data1/qyy/code/prompt/CLIP-process/img_features/CLIP-ViT-B-32-views.tsv'
+outfile = 'CLIP-ViT-B-32-views.tsv'
 
 tsv_fieldnames = ['scanId', 'viewpointId', 'image_w', 'image_h', 'vfov', 'features']
 features = {}
