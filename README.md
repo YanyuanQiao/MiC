@@ -13,10 +13,22 @@ Many Vision-and-Language Navigation (VLN) tasks have been proposed in recent yea
 
 ## TODOs
 
-- [ ] Demonstration Set
-- [ ] ROASP Code
+- [x] Demonstration Set
+- [x] ROASP Code
 - [ ] LLM Code 
 
 ## Prerequisites
 ### Installation
-Please follow the installation instructions in [DUET](https://github.com/cshizhe/VLN-DUET) to setup the environment.
+Please follow the installation instructions in [DUET](https://github.com/cshizhe/VLN-DUET) to set up the environment.
+### Room-and-Object Aware Scene Perceiver (ROASP)
+```sh
+cd ROASP
+```
+To predict the room type
+```sh
+python process-clip-room-ViTB32.py
+```
+To predict the object type
+```sh
+python process-clip-obj-ViTB32.py
+```
