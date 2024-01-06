@@ -32,3 +32,19 @@ To predict the object type
 ```sh
 python process-clip-obj-ViTB32.py
 ```
+## Citation
+Please cite our paper:
+```
+@InProceedings{Qiao_2023_MiC,
+    author    = {Qiao, Yanyuan and Qi, Yuankai and Yu, Zheng and Liu, Jing and Wu, Qi},
+    title     = {March in Chat: Interactive Prompting for Remote Embodied Referring Expression},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {15758-15767}
+}
+```
+
+## Acknowledgement
+
+We thank the developers of [DUET](https://github.com/cshizhe/VLN-DUET),  [language-planner](https://github.com/huangwl18/language-planner) for their public code release.
