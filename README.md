@@ -19,8 +19,8 @@ Many Vision-and-Language Navigation (VLN) tasks have been proposed in recent yea
 
 ## Prerequisites
 ### Installation and Data Preparation
-Please follow the installation instructions in [DUET](https://github.com/cshizhe/VLN-DUET) to set up the environment.
-#### Trained Weights
+Please follow the installation instructions in [DUET](https://github.com/cshizhe/VLN-DUET) to set up the environment and download the dataset.
+### Trained Weights
 Download the trained weights from [here](https://drive.google.com/drive/folders/1LfV3DBYcS_pS2rxAIYOX8sRGLdGFQYN7?usp=drive_link).
 ### Room-and-Object Aware Scene Perceiver (ROASP)
 ```sh
